@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "648c95338f3f320d88d73c42"
+  },
+  "NameAlbum": "Album ",
+  "NameSinger": "Singer ",
+  "releaseYear": "2020",
+  "listSongs": [
+    "tat nhat lang, tay trai chi trang"
+  ],
+  "createdAt": {
+    "$date": "2023-06-16T17:00:35.806Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:00:35.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9664eb6fd23b04084930"
+  },
+  "NameAlbum": "Abum 2",
+  "NameSinger": "Singer 2",
+  "releaseYear": "2019",
+  "listSongs": [
+    "dai ngu, lanh leo"
+  ],
+  "createdAt": {
+    "$date": "2023-06-16T17:05:40.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:05:40.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9683eb6fd23b04084933"
+  },
+  "NameAlbum": "Abum 3",
+  "NameSinger": "Singer 3",
+  "releaseYear": "2022",
+  "listSongs": [
+    "do ta khong do nang, bad lie,..."
+  ],
+  "createdAt": {
+    "$date": "2023-06-16T17:06:11.264Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:06:11.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c96beeb6fd23b04084936"
+  },
+  "NameAlbum": "Abum 4",
+  "NameSinger": "Singer 4",
+  "releaseYear": "2022",
+  "listSongs": [
+    "i'm not her, once uppon, that girl, ...."
+  ],
+  "createdAt": {
+    "$date": "2023-06-16T17:07:10.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:07:10.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c973eeb6fd23b0408493e"
+  },
+  "NameAlbum": "Abum 5",
+  "NameSinger": "Singer 5",
+  "releaseYear": "2021",
+  "listSongs": [
+    "la la la suki, lulaby, ayasa theater 7, ...."
+  ],
+  "createdAt": {
+    "$date": "2023-06-16T17:09:18.944Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:09:18.944Z"
+  },
+  "__v": 0
+}]

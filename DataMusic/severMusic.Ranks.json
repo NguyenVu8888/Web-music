@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "648b44736584afea42f23880"
+  },
+  "TopPopular": "top 100 au mi",
+  "TopSinger": "top 100 ca si hai ngoai",
+  "TopLike": "top 100 bai hat hot",
+  "TopListen": "top 100 ban nhac hay",
+  "createdAt": {
+    "$date": "2023-06-15T17:03:47.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T17:03:47.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b44836584afea42f23883"
+  },
+  "TopPopular": "top 10 au mi",
+  "TopSinger": "top 10 ca si hai ngoai",
+  "TopLike": "top 10 bai hat hot",
+  "TopListen": "top 100 ban nhac hay",
+  "createdAt": {
+    "$date": "2023-06-15T17:04:03.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T17:04:03.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9a3c78eca7a65d3b0a77"
+  },
+  "TopPopular": "top 100 bac au",
+  "TopSinger": "top 100 ca si phap",
+  "TopLike": "top 50 bai hat hot",
+  "TopListen": "top 10 ban nhac hay",
+  "createdAt": {
+    "$date": "2023-06-16T17:22:04.779Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:22:04.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9a6e78eca7a65d3b0a7a"
+  },
+  "TopPopular": "top 100 chau a",
+  "TopSinger": "top 100 ca si chau a",
+  "TopLike": "top 75 bai hat noi tieng",
+  "TopListen": "top 30 ca khuc bat hu",
+  "createdAt": {
+    "$date": "2023-06-16T17:22:54.043Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:22:54.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9a9f78eca7a65d3b0a7d"
+  },
+  "TopPopular": "top 80 ban nhac dai duong",
+  "TopSinger": "top 60 ban nhac hot",
+  "TopLike": "top 50 bai hat noi tieng",
+  "TopListen": "top 30 ca khuc bat hu",
+  "createdAt": {
+    "$date": "2023-06-16T17:23:43.458Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:23:43.458Z"
+  },
+  "__v": 0
+}]

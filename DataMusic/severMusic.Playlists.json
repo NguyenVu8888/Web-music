@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "648c977feb6fd23b04084941"
+  },
+  "NamePlaylist": "Playlist ",
+  "Creator": "Creator",
+  "category": "Category ",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2019/04/10/12/40/watercolor-4117017_640.png",
+  "ListSong": "dai ngu, giang hai khong do nang, ....",
+  "createdAt": {
+    "$date": "2023-06-16T17:10:23.184Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:10:23.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c97b0eb6fd23b04084944"
+  },
+  "NamePlaylist": "Playlist 1",
+  "Creator": "Creator 2",
+  "category": "Category 2",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2019/03/03/20/23/background-4032775_640.png",
+  "ListSong": "lanh leo, mong giang son, ....",
+  "createdAt": {
+    "$date": "2023-06-16T17:11:12.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:11:12.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9805eb6fd23b04084947"
+  },
+  "NamePlaylist": "Playlist 2",
+  "Creator": "Creator 2",
+  "category": "Category 2",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662_640.jpg",
+  "ListSong": "lanh leo, mong giang son, ....",
+  "createdAt": {
+    "$date": "2023-06-16T17:12:37.192Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:12:37.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9836eb6fd23b0408494a"
+  },
+  "NamePlaylist": "Playlist 2",
+  "Creator": "Creator 2",
+  "category": "Category 3",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2018/04/28/22/03/tree-3358468_640.jpg",
+  "ListSong": "kiep do den, co doc vuong, ....",
+  "createdAt": {
+    "$date": "2023-06-16T17:13:26.455Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:13:26.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c988ceb6fd23b0408494d"
+  },
+  "NamePlaylist": "Playlist 3",
+  "Creator": "Creator 3",
+  "category": "Category 3",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2018/08/15/13/10/galaxy-3608029_640.jpg",
+  "ListSong": "kokoronashi, Ano natsu ga, tabako, ....",
+  "createdAt": {
+    "$date": "2023-06-16T17:14:52.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:14:52.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648fafbec8a86b5d16e3e840"
+  },
+  "NamePlaylist": "Playlist 5",
+  "Creator": "Creator 5",
+  "category": "Category 5",
+  "imagePlaylist": "https://cdn.pixabay.com/photo/2018/08/15/13/10/galaxy-3608029_640.jpg",
+  "ListSong": "kokoronashi, Ano natsu ga, tabako, ....",
+  "createdAt": {
+    "$date": "2023-06-19T01:30:38.922Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T01:30:38.922Z"
+  },
+  "__v": 0
+}]

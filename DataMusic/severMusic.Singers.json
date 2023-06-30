@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "647ca66476d2dd121e7efe31"
+  },
+  "nameSingers": "Alan Walker",
+  "Birthday": {
+    "$date": "1998-12-05T17:00:00.000Z"
+  },
+  "nationality": "American",
+  "imageSinger": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZTsgZatE0JJXxbOU54Thh3LGDJli-LgbYg&usqp=CAU",
+  "nameSong": "Fade",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647ca7af76d2dd121e7efe3e"
+  },
+  "nameSingers": "Adele",
+  "Birthday": {
+    "$date": "1995-11-26T00:00:00.000Z"
+  },
+  "nationality": "American",
+  "imageSinger": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0TW9Ex3P9Cbl2aYTJ8mln_hyDI3egtVbEQ&usqp=CAU",
+  "nameSong": "Hello",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64872b7cab89853237331e84"
+  },
+  "nameSingers": "Nobody Know",
+  "Birthday": {
+    "$date": "2018-12-09T00:00:00.000Z"
+  },
+  "nationality": "American",
+  "imageSinger": "https://cdn.pixabay.com/photo/2018/10/30/16/06/water-lily-3784022_640.jpg",
+  "nameSong": "xxxxxxxxxsssss",
+  "createdAt": {
+    "$date": "2023-06-12T14:28:12.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T14:28:12.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9bfb78eca7a65d3b0acc"
+  },
+  "nameSingers": "Ayasa",
+  "Birthday": {
+    "$date": "1995-07-22T00:00:00.000Z"
+  },
+  "nationality": "Japan",
+  "imageSinger": "https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_640.jpg",
+  "nameSong": "Ayasa theater 7, ...",
+  "createdAt": {
+    "$date": "2023-06-16T17:29:31.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:29:31.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c9c8078eca7a65d3b0acf"
+  },
+  "nameSingers": "ke dang thuong",
+  "Birthday": {
+    "$date": "1998-06-14T00:00:00.000Z"
+  },
+  "nationality": "vietnam",
+  "imageSinger": "https://cdn.pixabay.com/photo/2016/08/03/14/24/roses-1566792_640.jpg",
+  "nameSong": "Dong hoa co lau, ...",
+  "createdAt": {
+    "$date": "2023-06-16T17:31:44.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T17:31:44.723Z"
+  },
+  "__v": 0
+}]

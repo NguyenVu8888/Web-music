@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "648f0170b64a643148380e34"
+  },
+  "nameSong": "Day By Day ",
+  "singer": "T-ARA",
+  "sourceSong": "uploads\\1687093616545.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2016/08/17/01/39/mystery-1599527_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 98,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0232b64a643148380e36"
+  },
+  "nameSong": "Demons",
+  "singer": "Boyce Avenue Jennel",
+  "sourceSong": "uploads\\1687093809359.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 94,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0646b64a643148380e4a"
+  },
+  "nameSong": "Đêm tỏ tình",
+  "singer": "Dụ Ngôn Gia",
+  "sourceSong": "uploads\\1687094852888.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 99,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f067eb64a643148380e4c"
+  },
+  "nameSong": "Em đồng ý",
+  "singer": "Đức Phúc",
+  "sourceSong": "uploads\\1687094908779.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2013/08/20/15/47/poppies-174276_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 95,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f06b2b64a643148380e4e"
+  },
+  "nameSong": "LaLaLa-Suki",
+  "singer": "Suki",
+  "sourceSong": "uploads\\1687094960995.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2016/12/16/15/25/christmas-1911637_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 98,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f06f9b64a643148380e50"
+  },
+  "nameSong": "Một mình có buồn không",
+  "singer": "Thiều Bảo Trâm",
+  "sourceSong": "uploads\\1687095033769.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2017/07/03/20/17/colorful-2468874_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 96,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0757b64a643148380e52"
+  },
+  "nameSong": "Mùa hè năm ấy",
+  "singer": "Miina, Dreamer",
+  "sourceSong": "uploads\\1687095125563.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2013/12/17/20/10/bubbles-230014_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 97,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f07cdb64a643148380e54"
+  },
+  "nameSong": "Mưa tháng sáu",
+  "singer": "Văn Mai Hương",
+  "sourceSong": "uploads\\1687095244005.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 94,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f08bbb64a643148380e64"
+  },
+  "nameSong": "Ngày đầu tiên",
+  "singer": "Đức Phúc",
+  "sourceSong": "uploads\\1687095481401.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2017/10/10/07/48/hills-2836301_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 93,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f08f2b64a643148380e66"
+  },
+  "nameSong": "Quá khứ đôi,Hiện tại đơn",
+  "singer": "Đức Phúc",
+  "sourceSong": "uploads\\1687095536456.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/04/28/22/03/tree-3358468_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 95,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0928b64a643148380e68"
+  },
+  "nameSong": "Sad song",
+  "singer": "We The Kings",
+  "sourceSong": "uploads\\1687095592326.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 100,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0958b64a643148380e6a"
+  },
+  "nameSong": "Thương anh",
+  "singer": "Thiều Bảo Trâm",
+  "sourceSong": "uploads\\1687095638976.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/10/30/16/06/water-lily-3784022_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 97,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f09fab64a643148380e6c"
+  },
+  "nameSong": "Trước tiên anh hãy nói chia tay",
+  "singer": "Thiều Bảo Trâm, GRAY D",
+  "sourceSong": "uploads\\1687095800457.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2017/05/08/13/15/bird-2295436_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 91,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0a38b64a643148380e6e"
+  },
+  "nameSong": "Umbrella",
+  "singer": "Ember Island",
+  "sourceSong": "uploads\\1687095864571.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 98,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0b4bb64a643148380e70"
+  },
+  "nameSong": "Hai mươi hai",
+  "singer": "Hứa Kim Tuyền",
+  "sourceSong": "uploads\\1687096139085.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2016/02/23/07/37/wall-1217083_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 96,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0b85b64a643148380e72"
+  },
+  "nameSong": "Nàng thơ",
+  "singer": "Hoàng Dũng",
+  "sourceSong": "uploads\\1687096196072.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/02/13/23/41/nature-3151869_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 95,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0bc1b64a643148380e74"
+  },
+  "nameSong": "Thế giới của em",
+  "singer": "GiGi Hương Giang",
+  "sourceSong": "uploads\\1687096257069.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2018/01/04/19/43/love-3061483_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 94,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0bf5b64a643148380e76"
+  },
+  "nameSong": "Thích em hơi nhiều",
+  "singer": "Hoàng Dũng",
+  "sourceSong": "uploads\\1687096309050.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2017/10/17/16/10/fantasy-2861107_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 91,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0c30b64a643148380e78"
+  },
+  "nameSong": "Ưng quá chừng",
+  "singer": "AMEE",
+  "sourceSong": "uploads\\1687096368090.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2013/10/27/17/14/snowfall-201496_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 93,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648f0c67b64a643148380e7a"
+  },
+  "nameSong": "Vu vơ",
+  "singer": "GiGi Hương Giang",
+  "sourceSong": "uploads\\1687096421520.mp3",
+  "imageSong": "https://cdn.pixabay.com/photo/2015/07/10/16/04/water-839590_640.jpg",
+  "lyrics": "day la  loi bai hat\n",
+  "listen": 97,
+  "production": "nha san xuat",
+  "createdAt": null,
+  "updatedAt": null,
+  "__v": 0
+}]

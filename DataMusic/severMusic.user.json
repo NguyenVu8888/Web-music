@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "64835bb3d876b2cf8f8dde11"
+  },
+  "username": "user3",
+  "password": "user3",
+  "email": "user@gmail.com",
+  "name": "user",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486e57eab89853237331df9"
+  },
+  "username": "adminX",
+  "password": "adminX",
+  "email": "adminX@gmail.com",
+  "name": "adminX",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-12T09:29:34.873Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T09:29:34.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486f6f1ab89853237331e5a"
+  },
+  "username": "admin",
+  "password": "admin",
+  "email": "admin@gmail.com",
+  "name": "admin",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-12T10:44:01.316Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T10:44:01.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6487e469f8421315266631ca"
+  },
+  "username": "adminXxxx",
+  "password": "adminXxxx",
+  "imageUser": "sdfghjjssdf",
+  "email": "adminXxx@gmail.com",
+  "name": "adminXxxx",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-13T03:37:13.504Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T03:37:13.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648897389570d8bfc520f899"
+  },
+  "username": "user333",
+  "password": "adasfdsgd",
+  "email": "asssd@gmail.com",
+  "name": "user3",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-13T16:20:08.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T16:20:08.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6489ffed9f33ca0f64169fe4"
+  },
+  "username": "ADMIN",
+  "password": "ADMIN",
+  "imageUser": "https://i0.wp.com/thatnhucuocsong.com.vn/wp-content/uploads/2022/03/anh-anime-ngau-2.jpg?ssl=1",
+  "email": "ADMIN@gmail.com",
+  "name": "ADMIN",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2023-06-14T17:59:09.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T17:59:09.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648a00569f33ca0f64169fe8"
+  },
+  "username": "user",
+  "password": "user",
+  "imageUser": "https://vietabinhdinh.edu.vn/wp-content/uploads/1677749660_52_BST-100-hinh-anh-anime-ngau-dep-khong-goc-chet.jpg",
+  "email": "user@gmail.com",
+  "name": "user",
+  "playlist": "",
+  "favorites": "",
+  "history": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2023-06-14T18:00:54.740Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T18:00:54.740Z"
+  },
+  "__v": 0
+}]
